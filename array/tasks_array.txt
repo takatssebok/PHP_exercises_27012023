@@ -1,0 +1,32 @@
+# php_array
+PHP array exercises
+
+1. Remove specific element by value from an array in PHP?
+Description:
+
+You need to write a program in PHP to remove specific element by value from an array using PHP program.
+
+Instructions:
+
+Take an array with list of month names.
+Take a variable with the name of value to be deleted.
+You can use PHP array functions or foreach loop.
+
+2. PHP Array to String Conversion (favourite colours chosen by user)
+Description:
+Write an exercise for PHP Array to String Conversion.
+
+Create a form that accept name as well as colors
+After submission, form data will be sent to another page
+Display select colors (as a list) and user name
+User name & colors selection is mandatory
+
+3. How to check if an array is a subset of another in PHP?
+Description:
+You need to find whether an array is subset of another array.
+
+Let us suppose that there are two arrays.
+First array is large which have 6 values.
+Second array is small which have 2 values
+Find if second array is subset of first which means that all values of second array should exists in first array.
+You can use Decision Making Statements.
