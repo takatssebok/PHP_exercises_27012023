@@ -1,0 +1,37 @@
+# PHP_variables
+variables related exercises
+
+1. Write a program to print “Hello World” using echo
+Description:
+Write a program to print “Hello World” using echo only?
+
+Conditions:
+
+You can not use any variable.
+
+2. Write a program to print “Hello PHP” using variable
+Description:
+Write a program to print “Hello PHP” using php variable?
+
+Conditions:
+
+You can not use text directly in echo but can use variable.
+
+3. Write a program to print a string using echo+variable.
+Description:
+Write a program to print “Welcome to the PHP World” using some part of the text in variable & some part directly in echo.
+
+Conditions:
+
+You have to use a variable that contains string “PHP World”.
+
+4. Write a program to print two variables in single echo
+Description:
+Write a program to print 2 php variables using single echo statement.
+
+Conditions:
+
+First variable have text “Good Morning.”
+Second variable have text “Have a nice day!”
+Your output should be “Good morning. Have a nice day!”
+You are allowed to use only one echo statement in this program.
