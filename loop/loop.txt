@@ -1,0 +1,43 @@
+#PHP_loop
+PHP loop exercises
+
+1. Write a program to count 5 to 15 using PHP loop
+Description:
+Write a Program to display count, from 5 to 15 using PHP loop as given below.
+
+Rules & Hint
+
+You can use “for” or “while” loop
+You can use variable to initialize count
+You can use html tag for line break
+
+2. Write a factorial program using for loop in php
+Description:
+
+Write a program to calculate factorial of a number using for loop in php.
+
+3. Write a program to create Chess board in PHP using for loop
+Description:
+
+Write a PHP program using nested for loop that creates a chess board.
+
+Conditions:
+
+You can use html table having width=”400px” and take “30px” as cell height and width for check boxes.
+
+4. Write a Program to create given pattern with * using for loop
+Description:
+Write a Program to create following pattern using for loops:
+
+*
+**
+***
+****
+*****
+******
+*******
+********
+Rules
+
+You can use for or while loop
+You can use multiple (nested) loop to draw above pattern
