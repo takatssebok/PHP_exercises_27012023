@@ -1,0 +1,48 @@
+# PHP_string_exercises
+
+String:
+1. Write a PHP program to reverse the string
+Description:
+Write a PHP program to reverse the string.
+	
+Instructions:
+	
+You can use any string related built-in Function.
+You can use only one variable.
+
+2. Write a PHP program to find the length of the string
+Description:
+Write a PHP program to find the length of the string.
+
+Instructions:
+
+You have to use one variable.
+You must use a built-in PHP String Function.
+
+3. Write a PHP program to count the words in the string
+Description:
+Write a PHP program to count the words in the string.
+
+Instructions:
+
+You can use only one variable.
+You can use PHP built-in String Function.
+
+4. Write a PHP program to convert a string into uppercase
+Description:
+Write a PHP program to convert all the characters inside the string into uppercase.
+
+Instructions:
+
+You can use only one variable.
+You should use a PHP built-in string Function
+
+5. PHP Array to String Conversion (favourite colours chosen by user)
+Description:
+Write an exercise for PHP Array to String Conversion.
+
+Create a form that accept name as well as colors
+After submission, form data will be sent to another page
+Display select colors (as a list) and user name
+User name & colors selection is mandatory
+
