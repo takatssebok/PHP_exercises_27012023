@@ -1,0 +1,18 @@
+# PHP_functions
+PHP Functions
+
+1. Factorial program in PHP using recursive function
+Exercise Description:
+Write a PHP program to find factorial of a number using recursive function.
+
+What is Recursive Function?
+
+A recursive function is a function that calls itself.
+
+2. Write a PHP program to calculate area of rectangle
+Description:
+Write a PHP program to calculate area of rectangle by using PHP Function.
+
+Condition
+You must use a PHP Function.
+There should be two arguments i.e. length & width.
